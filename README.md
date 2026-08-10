@@ -11,7 +11,7 @@ Large-Scale Systems*.
 <p align="center">
   <img src="tower.png" width="30%" alt="Original image">
   &nbsp;&nbsp;&nbsp;
-  <img src="final_image.png" width="25%" alt="Resized image">
+  <img src="final_image.png" width="26%" alt="Resized image">
 </p>
 
 
